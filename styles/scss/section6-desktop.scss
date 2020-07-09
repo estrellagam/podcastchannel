@@ -1,0 +1,35 @@
+@media screen and (min-width: 1000px) {
+    .news {
+        position: relative;
+        height: 500px;
+    }
+    .news-title {
+        position: absolute;
+        z-index: 2;
+        margin-left: 374px;
+        width: 700px;
+        margin-top: 213px;
+    }
+    .news-title h2 {
+        font-size: 48px;
+        color: white;
+    }
+    .fondo2 {
+           /* position: absolute; */
+    z-index: 1;
+    /* height: initial; */
+    margin-top: 65px;
+    height: 518px;
+    transform: skewY(-4deg);
+    }
+    .escucha {
+        padding-top: 16px;
+        padding-bottom: 16px;
+        width: 345px;
+        margin-top: 311px;
+        margin-left: 547px;
+     
+    }
+  
+
+}

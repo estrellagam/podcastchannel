@@ -1,0 +1,44 @@
+
+@media screen and (min-width: 1000px) {
+  .episodes {
+    position: relative;
+    background-color: transparent; 
+ padding-top: 6%;
+ height: 1030px;
+ display: flex;
+ flex-direction: row;}
+  .fondo {
+    position: absolute;
+    background-image: linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
+    width: 80px;
+    transform: skewY(-6deg);
+    width: 100%;
+   height: 1042.6px }
+
+  .title-ep {
+    position: absolute;
+    background-color: transparent;
+    z-index: 2;
+    width: auto;
+  margin-top: 10%;
+margin-left: 200px; }
+.title-ep h2 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 48px;
+  color: #FFFFFF; }
+  .iframes
+  { z-index: 2;
+    position: absolute;
+  background-color: transparent;
+  display: inline-block;
+  margin-top: 174px;
+  margin-left: 4%;
+  
+  }
+  .iframes iframe{
+    margin-left: 72px;
+     height:232px;
+     margin-top: 72px;
+     width: 590px;
+  }
+}

@@ -1,0 +1,63 @@
+@media screen and (min-width: 1000px) {
+  nav {
+    padding-left: 5%; }
+
+  .logo-wrapper {
+    position: absolute; }
+
+  .logo {
+    height: 31px;
+    width: 36px;
+    /* margin-top: 4px; */
+    margin-bottom: 2.2%;
+    margin-top: 0%; }
+
+  .container nav {
+    float: none;
+    text-align: end;
+    padding-top: 5px;
+    position: fixed; }
+
+  .container nav .menu {
+    padding-top: 0px;
+    float: right;
+    margin-right: 1%; }
+
+  .container nav .menu ul {
+    position: relative;
+    top: 0;
+    right: 0;
+    padding-right: 70px;
+    overflow: hidden;
+    background: unset;
+    height: unset; }
+
+  .container nav .menu ul li {
+    padding: 5px 10px;
+    display: inline-block;
+    font-weight: bold; }
+
+  .container nav .menu ul li:hover {
+    color: #0af0be;
+    font-style: unset;
+    text-decoration: line-through; }
+
+  .container nav .menu ul li:active {
+    color: rgba(6, 10, 36, 0.56);
+    text-decoration: line-through; }
+
+  .container nav .menu ul li a {
+    padding: unset;
+    line-height: unset;
+    color: black; }
+
+  .container nav .menu ul li a:hover {
+    color: unset; }
+
+  .container nav .menu input {
+    display: none; }
+
+  .container nav .menu span {
+    display: none; } }
+
+/*# sourceMappingURL=nav-desktop.css.map */

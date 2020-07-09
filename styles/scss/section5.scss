@@ -1,0 +1,35 @@
+.temas {
+    flex-wrap: wrap;
+    margin-top: 10%;
+    width: auto;
+}
+.temas-title h2 {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 36px;
+    color: #000000;
+    margin-left: 5%;
+    font-weight: bold;
+}
+.container-temas{
+    display: flex;
+  justify-content: space-around;
+    flex-direction: column;
+    margin-top: 10%;
+}
+
+.container-temas div{
+   display: flex;
+   flex-direction: column;
+   margin-top: 8%;
+}
+.container-temas p {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 24px;
+    color: #060a24;
+    font-weight: bold;
+    letter-spacing: 0;
+    text-align: center;
+    margin-top: 4%;
+    width: 80%;
+    margin-left: 10%;
+}

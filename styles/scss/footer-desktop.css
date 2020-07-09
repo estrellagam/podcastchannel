@@ -1,0 +1,8 @@
+@media screen and (min-width: 1000px) {
+  .footer {
+    margin-top: 65px;
+    height: 518px;
+    transform: skewY(-4deg);
+  } }
+
+/*# sourceMappingURL=footer-desktop.css.map */

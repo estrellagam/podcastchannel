@@ -1,0 +1,23 @@
+.invitadas {
+  flex-wrap: wrap;
+  margin-top: 54px;
+  width: auto; }
+
+.title-invitadas {
+  width: auto; }
+
+.title-invitadas h2 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 36px;
+  color: #000000;
+  margin-left: 5%; }
+
+.galeria {
+  margin-top: 14px;
+  display: flex;
+  flex-wrap: wrap; }
+
+.galeria img {
+  width: 100%; }
+
+/*# sourceMappingURL=section4.css.map */

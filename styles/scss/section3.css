@@ -1,0 +1,30 @@
+.nosotros {
+  position: relative;
+  flex-wrap: column; }
+
+.phone img {
+  z-index: 1;
+  width: 100%; }
+
+.phone-description {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 27px; }
+
+.phone-description h2 {
+  font-size: 36px;
+  color: #060A24;
+  letter-spacing: 0;
+  line-height: 42px;
+  font-family: "IBM Plex Sans", sans-serif; }
+
+.phone-description p {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 14px;
+  color: #060A24;
+  letter-spacing: 0;
+  line-height: 24px;
+  font-weight: bold;
+  margin-top: 8px; }
+
+/*# sourceMappingURL=section3.css.map */

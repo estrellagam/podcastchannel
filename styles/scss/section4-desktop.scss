@@ -1,0 +1,24 @@
+@media screen and (min-width: 1000px) {
+.title-invitadas{
+    width: auto;
+
+}
+.title-invitadas h2{
+    width: auto;
+    margin-left: 200px;
+font-size: 48px;
+}
+.galeria{
+    margin-top: 36px;
+    width: 100%;
+    display: flex;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
+}
+.galeria img{
+    width: 33.299%;
+    height: 364px;
+    display: inline-block;
+}
+
+}

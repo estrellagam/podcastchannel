@@ -1,0 +1,31 @@
+@media screen and (min-width: 1000px) {
+    .nosotros{
+        display: flex;
+    flex-direction: row;
+        
+    }
+    .phone{
+        width: 457.6px;
+        height: 680px;
+   
+        margin-left:16%;
+    }
+   .phone img{
+    width: 449px;
+    height: 710px;
+
+    }
+    .phone-description{
+        margin-left: 5%;
+        margin-right: 0%;
+        margin-top: 15%;
+      
+    }
+    .phone-description h2{
+        font-size: 48px;
+    }
+    .phone-description p {
+     font-size: 16px;
+    width: 464px;
+margin-top: 24px;}
+}

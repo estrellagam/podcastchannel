@@ -1,0 +1,34 @@
+@media screen and (min-width: 1000px) {
+  .temas {
+    margin-top: 64px; }
+
+  .temas-title h2 {
+    margin-left: 200px;
+    font-size: 48px; }
+
+  .container-temas {
+    display: flex;
+    flex-direction: row;
+    margin-top: 69px;
+    width: 75%;
+    margin-left: 13%; }
+
+  .container-temas div {
+    display: flex;
+    margin-top: 0%;
+    height: 250px; }
+
+  .tema {
+    widows: 260px; }
+
+  .container-temas p {
+    margin-left: 0px;
+    margin-top: 29px;
+    font-size: 24px;
+    width: 220px; }
+
+  .container-temas img {
+    width: 104px;
+    margin-left: 25%; } }
+
+/*# sourceMappingURL=section5-desktop.css.map */
